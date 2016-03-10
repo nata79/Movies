@@ -1,0 +1,6 @@
+requests
+lxml
+tabulate
+progressbar2
+click
+setuptools
